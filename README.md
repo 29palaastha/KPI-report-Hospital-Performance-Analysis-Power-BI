@@ -22,3 +22,10 @@ Next, we have payers where we have different names of the payers of coverage alo
 
 # Dashboard
 ![image](https://github.com/user-attachments/assets/0bb33fe2-df09-48d4-8fb9-15b35a0832a7)
+
+# Report Pages:
+![1](https://github.com/user-attachments/assets/39cad1fe-c0d0-43f2-806e-571e2b6f45f3)
+![2](https://github.com/user-attachments/assets/065fb171-a313-4e48-87ba-d84fc2131ada)
+![3](https://github.com/user-attachments/assets/16cc87b5-d2f8-4dba-9339-d1408d02792e)
+![4](https://github.com/user-attachments/assets/3d168b7c-16a8-452c-aa6a-8d39ecc68d29)
+
